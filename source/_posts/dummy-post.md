@@ -6,7 +6,7 @@ tags:
   - javascript
   - php
   - laravel
-image: https://res.cloudinary.com/artisanstatic/sample.jpg
+image: [https://res.cloudinary.com/artisanstatic/sample.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnL24PmERaF9cbY5bqlz2zySrCVwlkqZus7iXb3yX&s)
 ---
 ## Heading 2
 
